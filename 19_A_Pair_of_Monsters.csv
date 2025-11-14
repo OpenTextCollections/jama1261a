@@ -1,0 +1,133 @@
+ID,Primary_Text,Analyzed_Word,Gloss,Translated_Text,Comment,LGR
+a1,"Ati yana namakiemetemoneke, yama ati.",ati	yana	na	-maki	-hemete	-mone	-ke	yama	ati,voice	start	AUX	-following	-FP.N.F	-REP.F	-DECL.F	thing(F)	voice,Its voice started up.,,WORD_ALIGNED
+a2,Ati yana namakiemetemonehe.,ati	yana	na	-maki	-hemete	-mone	-he,voice	start	AUX	-following	-FP.N.F	-REP.F	-DUP,Its voice started up.,,WORD_ALIGNED
+a3,Hao hao hao hao hao ati nemetemoneke.,hao	hao	hao	hao	hao	ati	na	-hemete	-mone	-ke,(sound_of_barking)	(sound_of_barking)	(sound_of_barking)	(sound_of_barking)	(sound_of_barking)	say	AUX	-FP.N.F	-REP.F	-DECL.F,"""Hao, hao, hao,"" it went.",,WORD_ALIGNED
+a4,Okobi ati himitemetemonehe.,okobi	ati	hi-	mita	-hemete	-mone	-he,my_father(M)	voice	OC-	hear	-FP.N.F	-REP.F	-DUP,My father heard its voice.,,WORD_ALIGNED
+a5,Kamakiani ati yana namakiemetemoneke.,ka	-maki	-hani	ati	yana	na	-maki	-hemete	-mone	-ke,come	-following	-IP.N.F	voice	start	AUX	-following	-FP.N.F	-REP.F	-DECL.F,"It was coming, and its voice was starting up.",,WORD_ALIGNED
+a6,"Heeee ati nemetemonehe, Heeee.",ati	na	-hemete	-mone	-he,say	AUX	-FP.N.F	-REP.F	-DUP,"""Heeee,"" it said.",,WORD_ALIGNED
+a7,Yama atinekira.,yama	ati	-ne	-kira,monster(F)	make_noise	-CONT.F	-(?).F,"""It's the sound of a monster.""",,WORD_ALIGNED
+a8,Okahabone yama owa kiyohaba awineke.,o-	ka	-habone	yama	owa	kiyo	-haba	awine	-ke,1SG.S-	go	-INT.F	thing(F)	1SG.O	chase	-FUT.F	seem.F	-DECL.F,"""I want to go hunting, but something is chasing me.""",,WORD_ALIGNED
+a9,Yama atine.,yama	ati	-ne,monster(F)	make_noise	-CONT.F,"""It's the sound of a monster.""",,WORD_ALIGNED
+a10,Ati omitara.,ati	o-	mita	-hara,voice	1SG.S-	hear	-IP.E.F,"""I heard its voice.""",,WORD_ALIGNED
+a11,Kana nemetemoneke.,kana	na	-hemete	-mone	-ke,run	AUX	-FP.N.F	-REP.F	-DECL.F,It was running.,,WORD_ALIGNED
+a12,Kana ni kamakiemetemone ahi.,kana	ni	ka	-maki	-hemete	-mone	ahi,run	AUX.NFIN	come	-following	-FP.N.F	-REP.F	then,It was coming toward him running.,,WORD_ALIGNED
+a13,Rifi ka bara tei namaroke ahi.,rifi	ka	bara	tei	na	-hamaro	-ke	ahi,rifle(F)	POSS	bullet(F)	ten	AUX	-FP.E.F	-DECL.F	then,There were ten bullets for the rifle.,,WORD_ALIGNED
+a14,"Aaya aaya hahohohohohoo, hoooooo.",,,,,WORD_ALIGNED
+a15,Yara yara me ati owatobisa okere.,yara	yara	me	ati	o-	wato	-bisa	o-	ke	-re,Brazilian	Brazilian	3PL.POSS	voice	1SG.S-	know	-also	1SG.S-	DECL.F	-NEG.F,I don't know how to speak Portuguese.,,WORD_ALIGNED
+a16,Yara me ati onofa okere.,yara	me	ati	o-	nofa	o-	ke	-re,Brazilian	3PL.POSS	voice	1SG.S-	like	1SG.S-	DECL.F	-NEG.F,I don't like Portuguese.,,WORD_ALIGNED
+a17,Me yama kamakiemetemone okobi aati toemarika.,me	yama	ka	-maki	-hemete	-mone	okobi	a-	ati	to-	ha	-himari	-ka,3PL	monster(F)	come	-following	-FP.N.F	-REP.F	my_father(M)	DUP-	say	CH-	AUX	-FP.E.M	-DECL.M,"The monster was coming, my father used to say.",,WORD_ALIGNED
+a18,Yama kamakia okobi watabone ahi.,yama	ka	-makia	o-	ka	abi	wata	-habone	ahi,monster(F)	come	-following.F	1SG.POSS-	POSS	father(M)	catch	-INT.F	then,It was coming to catch my father.,,WORD_ALIGNED
+a19,Okobi watabone tao hikanemetemoneke baaaa rifi ya.,okobi	wata	-habone	tao	hi-	ka-	na	-hemete	-mone	-ke	rifi	ya,my_father(M)	catch	-INT.F	shoot	OC-	COMIT-	AUX	-FP.N.F	-REP.F	-DECL.F	rifle(F)	ADJU,"It was going to catch my father, but he shot it with the rifle, baaaa.",,WORD_ALIGNED
+a20,Tao hikanamemetemoneke.,tao	hi-	ka-	na	-ma	-hemete	-mone	-ke,shoot	OC-	COMIT-	AUX	-back	-FP.N.F	-REP.F	-DECL.F,He shot it again.,,WORD_ALIGNED
+a21,"Tao hikanama, tosawitemetemone.",tao	hi-	ka-	na	-ma	to-	sona	-wite	-hemete	-mone,shoot	OC-	COMIT-	AUX	-back.F	away-	fall	-out	-FP.N.F	-REP.F,"When he shot it again, it fell.",,WORD_ALIGNED
+a22,"One kana ni kamakia, kana ni kamaki, okobi kana ni tokematamonaka ahi.",one	kana	ni	ka	-makia	kana	ni	ka	-maki	okobi	kana	ni	to-	ka	-himata	-mona	-ka	ahi,other.F	run	AUX.NFIN	come	-following.F	run	AUX.NFIN	come	-following.M	my_father(M)	run	AUX.NFIN	away-	go	-FP.N.M	-REP.M	-DECL.M	then,Another one came running. My father went running.,,WORD_ALIGNED
+a23,Kana ni toke kiyohemetemoneni maki.,kana	ni	to-	ke	kiyo	-hemete	-mone	-ni	maki,run	AUX.NFIN	away-	go.M	chase	-FP.N.F	-REP.F	-BKG.F	male(M),"He went running away, and it came after him, the male.",,WORD_ALIGNED
+a24,Makimatamonane.,maki	-mata	-mona	-ne,male(M)	-FP.N.M	-REP.M	-BKG.M,It was a male.,,WORD_ALIGNED
+a25,Makimatamonaka okobi kiyohari.,maki	-mata	-mona	-ka	okobi	kiyo	-haari,male(M)	-FP.N.M	-REP.M	-DECL.M	my_father(M)	chase	-IP.E.M,It was a male that ran after my father.,,WORD_ALIGNED
+a26,"Maki, okobi tao hikatasematamona bako.",maki	okobi	tao	hi-	ka-	-tasa	-himata	-mona	bako,male(M)	my_father(M)	shoot	OC-	COMIT-	-again	-FP.N.M	-REP.M	chest.M,"My father shot the male, too, in the chest.",,WORD_ALIGNED
+a27,Bako tao hikatasematamonane.,bako	tao	hi-	ka-	-tasa	-himata	-mona	-ne,chest.M	shoot	OC-	COMIT-	-again	-FP.N.M	-REP.M	-BKG.M,He shot it in the chest.,,WORD_ALIGNED
+a28,"Kasawi he kiyo tao hikanamatasematamonaka, fariboti.",ka-	sawi	hee	kiyo	tao	hi-	ka-	na	-ma	-tasa	-himata	-mona	-ka	fariboti,COMIT-	be_present.M	3SG.O	chase.M	shoot	OC-	COMIT-	AUX	-back	-again	-FP.N.M	-REP.M	-DECL.M	armpit,"As it ran after him, he shot it in the side.",,WORD_ALIGNED
+a29,"Tao hikaname, tomakose kana ni kamawematamonane.",tao	hi-	ka-	na	-me	to-	homa	-kose	kana	ni	ka	-ma	-waha	-himata	-mona	-ne,shoot	OC-	COMIT-	AUX	-back.M	CH-	lie_on_ground	-middle.M	run	AUX.NFIN	come	-back	-change	-FP.N.M	-REP.M	-BKG.M,"He shot it, and it was lying on the ground. He came back running.",,WORD_ALIGNED
+a30,Faya nisori kana ni tokomakematamonaha.,faya	nisori	kana	ni	to-	ka	-make	-himata	-mona	-ha,so	3SG.POSS.younger_brother(M)	run	AUX.NFIN	away-	go	-following	-FP.N.M	-REP.M	-DUP,His younger brother went running there.,,WORD_ALIGNED
+a31,"Kana ni tokomake, Ayo himata tao tine tiriya?",kana	ni	to-	ka	-make	ayo	himata	tao	ti-	-ne	ti-	ri	-ya,run	AUX.NFIN	away-	go	-following	older_brother(M)	what?	shoot	2SG.S-	-CONT.F	2SG.S-	CQ.F	-now,"He went running there. ""Older brother, what did you shoot?""",,WORD_ALIGNED
+a32,Botehefo yama kamaki ahi.,Botehefo	yama	ka	-maki	ahi,Botehefo(M)	monster(F)	come	-following.NOM	there,"""Botehefo, a monster came here.""",,WORD_ALIGNED
+a33,Yama owa kiyoha okomine oni.,yama	owa	kiyoha	o-	ka	-ma	-ne	o-	ni,monster(F)	1SG.O	chase.F	1SG.S-	come	-back	-CONT.F	1SG.S-	BKG.F,"""I came here because the monster was chasing me.""",,WORD_ALIGNED
+a34,Okobise kana ni wete namematamona.,okobise	kana	ni	wete	na	-ma	-himata	-mona,my_uncle(M)	run	AUX.NFIN	return	AUX	-back	-FP.N.M	-REP.M,My uncle came running back.,,WORD_ALIGNED
+a35,Me kana ni kakamemetemoneheni.,me	kana	ni	ka-	ka	-ma	-hemete	-mone	-he	-ni,3PL.S	run	AUX.NFIN	COMIT-	come	-back	-FP.N.F	-REP.F	-DUP	-BKG.F,They came running back.,,WORD_ALIGNED
+a36,Bai nokorisemarika.,bahi	noko	-risa	-himari	-ka,sun(M)	point	-down	-FP.E.M	-DECL.M,It was noon.,,WORD_ALIGNED
+a37,"Faya me kafotoma me, okobi tanakone, okobise ati kawinamemari.",faya	me	ka-	foto	-ma	me	okobi	tanakone	okobise	ati	ka-	wina	-ma	-himari,so	3PL.S	COMIT-	appear	-back.F	3PL.S	my_father(M)	sweat	my_uncle(M)	voice	COMIT-	lie_in_hammock	-back	-FP.E.M,They appeared at the village. My father was sweaty. My uncle was in his hammock talking.,,WORD_ALIGNED
+a38,Okoyo awi tao nemonara.,okoyo	awi	tao	na	-himona	-ra,my_older_brother(M)	tapir(M)	shoot	AUX	-REP.M	-mood,"""I thought my brother had shot a tapir.""",,WORD_ALIGNED
+a39,"Okoyo yama tao narawenoho, yama aberawaha.",o-	ka	ayo	yama	tao	na	-rawa	-hino	-ho	yama	abe	-rawa	-ha,1SG.POSS-	POSS	older_brother(M)	monster(F)	shoot	AUX	-FPL	-IP.N.M	-DUP	thing(F)	creature.F	-FPL	-DUP,"""My brother had shot a monster, a creature.""",,WORD_ALIGNED
+a40,Homahara ahi.,homa	-hara	ahi,lie_on_ground	-IP.E.F	there,"""It is lying out there on the ground.""",,WORD_ALIGNED
+a41,E kabibana?,ee	kaba	-bana,1IN.S	eat	-FUT.F,"""Should we eat it?""",,WORD_ALIGNED
+a42,E kabehene e awakere.,ee	kaba	-hene	ee	awa	-ke	-re,1IN.S	eat	-IRR.F	1IN.S	see	-DECL.F	-NEG.F,"""I don't know, I guess we shouldn't eat it.""",,WORD_ALIGNED
+a43,Awi amakara.,awi	ama	-ka	-ra,tapir(M)	be	-DECL.M	-NEG.M,"""It is not a tapir.""",,WORD_ALIGNED
+a44,Awi ama.,awi	ama,tapir(M)	be,"""It's not a tapir.""",,WORD_ALIGNED
+a45,Yama mai kitarawarake.,yama	mahi	kita	-rawa	-hara	-ke,monster(F)	smell.F	be_strong	-FPL	-IP.E.F	-DECL.F,"""The monsters had a strong odor.""",,WORD_ALIGNED
+a46,Yama mai kitarawarani.,yama	mahi	kita	-rawa	-hara	-ni,monster(F)	smell.F	be_strong	-FPL	-IP.E.F	-BKG.F,"""The monsters had a strong odor.""",,WORD_ALIGNED
+a47,"Yifori, yifori yowarake ahi.",yifori	yifori	yowa	-hara	-ke	ahi,tail	tail	reach	-IP.E.F	-DECL.F	here,"""They had long tails.""",,WORD_ALIGNED
+a48,Yama imararake okoyo tao hinanihi.,yama	ima	-ra	-hara	-ke	okoyo	tao	hi-	na	-hani	-hi,monster(F)	be_fat	-NEG	-IP.E.F	-DECL.F	my_older_brother(M)	shoot	OC-	AUX	-IP.N.F	-DUP,"""The monster that my brother shot was skinny.""",,WORD_ALIGNED
+a49,Okoyo tao hinani homa te awi toerara.,okoyo	tao	hi-	na	-hani	homa	tee	awa	to-	ha	-ra	-hara,my_older_brother(M)	shoot	OC-	AUX	-IP.N.F	lie_on_ground.F	2PL.S	see	CH-	AUX	-NEG	-IP.E.F,"""My brother shot it and it is lying there on the ground. You have never seen it.""",,WORD_ALIGNED
+a50,"E totoka toha, yama kabani abe, yama era kakaba amani.",ee	to-	to-	ka	to-	ha	yama_kabani	abe	yama	era	kakaba	ama	-ni,1IN.S	DUP-	away-	go	CH-	AUX.F	forest(F)	creature.F	thing(F)	1IN.O	eater	be	-BKG.F,"""If we go into the forest, the creature will eat us.""",,WORD_ALIGNED
+a51,"E na toemata awaka hari mera iso nabari, yama soki ya.",ee	na	to-	ha	-himata	awa	-ka	haari	mera	iso	nahaba	-haari	yama	soki	ya,be_similar	AUX	CH-	AUX	-FP.N.M	seem.M	-DECL.M	that_one.M	3PL.O	carry_off	at_night	-IP.E.M	thing(F)	be_dark.NOM	ADJU,The jaguar was like that long ago. It carried off people during the night.,,WORD_ALIGNED
+a52,Yama yofinarawa okoyo karimaraweno amane.,yama	yofina	-rawa	okoyo	karima	-rawa	-hino	ama	-ne,thing(F)	cause_fear	-FPL.F	my_older_brother(M)	suffer_from	-FPL	-IP.N.M	SEC	-BKG.M,"""My brother had a hard time.""",,WORD_ALIGNED
+a53,"Mata narawahara okoyo hinafamarawanihi, okobise hiyari ati nemarika.",mata	na	-rawa	-hara	okoyo	hi-	na-	fama	-rawa	-hani	-hi	okobise	hiyari	ati	na	-himari	-ka,lie	AUX	-FPL	-IP.E.F	my_older_brother(M)	OC-	CAUS-	be_two	-FPL	-IP.N.F	-DUP	my_uncle(M)	speak.NFIN	say	AUX	-FP.E.M	-DECL.M,"""The two of them are lying on the ground, my brother killed them,"" my uncle said, speaking.",,WORD_ALIGNED
+a54,Maki imarareka.,maki	ima	-ra	-hare	-ka,male(M)	be_fat	-NEG	-IP.E.M	-DECL.M,"""The male was not fat.""",,WORD_ALIGNED
+a55,"Fana ta imahara, okobise hiyari ati nemari.",fana	taa	ima	-hara	okobise	hiyari	ati	na	-himari,female(F)	contrast	be_fat	-IP.E.F	my_uncle(M)	speak.NFIN	say	AUX	-FP.E.M,"""But the female was fat,"" my uncle said, speaking.",,WORD_ALIGNED
+a56,E tonakamarawene.,ee	to-	na-	ka	-ma	-rawa	-hene,1IN.S	away-	CAUS-	go	-back	-FPL	-IRR.F,"""We shouldn't go after them.""",,WORD_ALIGNED
+a57,Yama kabaterawara ama.,yama	kaba	-tee	-rawa	-ra	ama,thing(F)	be_eaten	-HAB	-FPL	-NEG.F	SEC,"""They aren't good for eating.""",,WORD_ALIGNED
+a58,Yama hine abarawi.,yama	hine	ahaba	-rawi,thing(F)	only	die	-FPL.NOM.F,"""Let them just die.""",,WORD_ALIGNED
+a59,"Ee, hine homake.",ee	hine	homa	-ke,yes	only	lie_on_ground	-DECL.F,"""Yes, let them just lie there.""",,WORD_ALIGNED
+a60,"Me hikabarawaba awine, me hinofarawaramaroho, awi amaramonamako.",me	hi-	kaba	-rawa	-haba	awine	me	hi-	nofa	-rawa	-ra	-hamaro	-ho	awi	ama	-ra	-mona	-mako,3PL.S	OC-	eat	-FPL	-FUT.F	seem.F	3PL.S	OC-	want	-FPL	-NEG	-FP.E.F	-DUP	tapir(M)	be	-NEG	-REP.M	-for_this_reason.M,"""The spirits will eat them."" They didn't want them, because they weren't tapirs.",,WORD_ALIGNED
+a61,"Ota towamarawabone me hikayawarawamaroni, ota tonakamarawabonehe.",otaa	to-	awa	-ma	-rawa	-habone	me	hi-	ka-	yawa	-rawa	-hamaro	-ni	otaa	to-	na-	ka	-ma	-rawa	-habone	-he,1EX.S	away-	see	-back	-FPL	-INT.F	3PL.S	OC-	COMIT-	be_upset	-FPL	-FP.E.F	-BKG.F	1EX.S	away-	CAUS-	go	-back	-FPL	-INT.F	-DUP,"We wanted to go and see them, but they didn't let us.",,WORD_ALIGNED
+a62,Mai kitemetemone me hinamaroni.,mahi	kita	-hemete	-mone	me	hi-	na	-hamaro	-ni,smell.F	be_strong	-FP.N.F	-REP.F	3PL.S	OC-	say	-FP.E.F	-BKG.F,They said they had a strong odor.,,WORD_ALIGNED
+a63,"Bara siko na abemeteke ahi, maki ehene.",bara	siko	na	ahaba	-hemete	-ke	ahi	maki	ehene,bullet(F)	five	AUX.F	end	-FP.N.F	-DECL.F	then	male(M)	because_of.M,Five bullets were spent on the male.,,WORD_ALIGNED
+a64,"One, one hiwasirawa one hiwasitasemeteni.",one	one	hi-	wasi	-rawa	one	hi-	wasi	-tasa	-hemete	-ni,other.F	other.F	OC-	find	-FPL.F	other.F	OC-	find	-again	-FP.N.F	-BKG.F,"He came upon one, and then came upon another.",,WORD_ALIGNED
+a65,Tao hikatasemeteke faro.,tao	hi-	ka-	-tasa	-hemete	-ke	faaro,shoot	OC-	COMIT-	-again	-FP.N.F	-DECL.F	that.F,"He shot that one, too.",,WORD_ALIGNED
+a66,Tao hikatasemete faro.,tao	hi-	ka-	-tasa	-hemete	faaro,shoot	OC-	COMIT-	-again	-FP.N.F	that.F,"He shot that one, too.",,WORD_ALIGNED
+a67,Kafamemeteke faro bara ya.,ka-	fama	-hemete	-ke	faaro	bara	ya,COMIT-	be_two	-FP.N.F	-DECL.F	that.F	bullet(F)	ADJU,He shot the two of them with bullets.,,WORD_ALIGNED
+a68,Taokanamaro faro.,taokana	-maro	faaro,shotgun	-FP.E.F	that.F,"Now it is shotguns, not rifles.",,WORD_ALIGNED
+a69,Watari hiwarawamone hirawamarohoni.,wata	-ri	hi-	awa	-rawa	-hamone	hi-	-rawa	-hamaro	-ho	-ni,dream	-PN	OC-	see	-FPL	-REP.F	OC-	-FPL	-FP.E.F	-DUP	-BKG.F,He said he dreamed about them.,,WORD_ALIGNED
+a70,"Kobo hirawani, tao hirawemeteni.",kobo	hi-	-rawa	-hani	tao	hi-	-rawa	-hemete	-ni,meet	OC-	-FPL	-IP.N.F	shoot	OC-	-FPL	-FP.N.F	-BKG.F,"He met up with them, and shot them.",,WORD_ALIGNED
+a71,Abarawamaro abarawemetemoneke.,ahaba	-rawa	-hamaro	ahaba	-rawa	-hemete	-mone	-ke,die	-FPL	-FP.E.F	die	-FPL	-FP.N.F	-REP.F	-DECL.F,They died.,,WORD_ALIGNED
+a72,"Hinamati hekamara hekamemetemone faro, okobi tao hikanaro.",hinamati	hi-	ka-	ka	-ma	-ra	hi-	ka-	ka	-ma	-hemete	-mone	faaro	okobi	tao	hi-	ka-	na	-haaro,spirit(M)	OC-	COMIT-	go	-back	-NEG.F	OC-	COMIT-	go	-back	-FP.N.F	-REP.F	that.F	my_father(M)	shoot	OC-	COMIT-	AUX	-IP.E.F,They took them away after my father shot them.,,WORD_ALIGNED
+a73,Hinamati yama weye nematamona okobi hinemarine.,hinamati	yama	weye	na	-himata	-mona	okobi	hi-	na	-himari	-ne,spirit(M)	thing(F)	carry	AUX	-FP.N.M	-REP.M	my_father(M)	OC-	say	-FP.E.M	-BKG.M,"The spirit carried the creature on its back, my father said.",,WORD_ALIGNED
+a74,"Kabibana ama, tinahabihanihi?",kaba	-bana	ama	ti-	naahabiha	-hani	-hi,be_eaten.F	-FUT	SEC	2SG.S-	kill	-IP.N.F	-DUP,"""Can I eat the creature you killed?""",,WORD_ALIGNED
+a75,"Tiwehene okobibe, ati nematamonaka.",ti-	ehene	o-	kaba	-be	ati	na	-himata	-mona	-ka,2SG.POSS-	victim_of	1SG.S-	eat	-IMMED.F	say	AUX	-FP.N.M	-REP.M	-DECL.M,"""I will eat the creature that you killed,"" the spirit said.",,WORD_ALIGNED
+a76,"Ee, tekama.",ee	ti-	ka-	ka	-ma,yes	2SG.S-	COMIT-	go	-back,"""All right, go ahead and take it.""",,WORD_ALIGNED
+a77,Owa kabene tao okana ama.,owa	kaba	-hene	tao	o-	ka-	na	ama,1SG.O	eat	-IRR.F	shoot	1SG.S-	COMIT-	AUX.F	SEC,"""I shot it because it was going to eat me.""",,WORD_ALIGNED
+a78,Okobabanani.,o-	kaba	-habana	-ni,1SG.S-	eat	-FUT.F	-BKG.F,"""I will eat it.""",,WORD_ALIGNED
+a79,"Abariya, ati nematamonaka.",ahaba	-ra	-yahi	ati	na	-himata	-mona	-ka,end	-NEG	-DIST.IMP.F	say	AUX	-FP.N.M	-REP.M	-DECL.M,"""I don't want it to go to waste.""",,WORD_ALIGNED
+a80,"Yama wete ne noki hine, mato tore nise yama wete nawematamonane.",yama	wete	ne	noki	hi-	ne	mato	tore	na	-rise	yama	wete	na	-waha	-himata	-mona	-ne,thing(F)	tie	AUX.M	wait_for	OC-	AUX.M	vine(F)	pull	AUX	-down.M	thing(F)	tie	AUX	-change	-FP.N.M	-REP.M	-BKG.M,He waited for it while it tied up the creature. It pulled down some vines and tied up the creature.,,WORD_ALIGNED
+a81,"Yama wete ne, yama weye namisematamona hinemarine.",yama	wete	ne	yama	weye	na	-misa	-himata	-mona	hi-	na	-himari	-ne,thing(F)	tie	AUX.M	thing(F)	carry	AUX	-up	-FP.N.M	-REP.M	OC-	say	-FP.E.M	-BKG.M,"It tied it up. It put it on its back, he said.",,WORD_ALIGNED
+a82,Hekamemetemoneke.,hi-	ka-	ka	-ma	-hemete	-mone	-ke,OC-	COMIT-	go	-back	-FP.N.F	-REP.F	-DECL.F,It took it away.,,WORD_ALIGNED
+a83,Hikabamemete awineni.,hi-	kaba	-ma	-hemete	awine	-ni,OC-	eat	-back	-FP.N.F	seem.F	-BKG.F,It ate it over there.,,WORD_ALIGNED
+a84,Faya one me hinakamarawemetemonehe.,faya	one	me	hi-	na-	ka	-ma	-rawa	-hemete	-mone	-he,so	other.F	3PL.S	OC-	CAUS-	come	-back	-FPL	-FP.N.F	-REP.F	-DUP,Then they came back for the other one.,,WORD_ALIGNED
+a85,Me hekamarawemete awineke.,me	hi-	ka-	ka	-ma	-rawa	-hemete	awine	-ke,3PL.S	OC-	COMIT-	go	-back	-FPL	-FP.N.F	seem.F	-DECL.F,They took them away.,,WORD_ALIGNED
+a86,Wakana oyababone yama owa kiyorawa okomine o.,wakana	o-	yaba	-habone	yama	owa	kiyo	-rawa	o-	ka	-ma	-ne	o,crabwood(F)	1SG.S-	pick_up	-INT.F	monster(F)	1SG.O	chase	-FPL.F	1SG.S-	come	-back	-CONT.F	1SG.S,"""I wanted to pick up crabwood fruits, but some creatures chased me, and I have come back.""",,WORD_ALIGNED
+a87,"Fa koro onabone fa koro orara o, yama owa kiyorawa owa.",faha	koro	o-	na	-habone	faha	koro	o-	-ra	-hara	o	yama	owa	kiyo	-rawa	owa,water(F)	throw_something_on	1SG.S-	AUX	-INT.F	water(F)	throw_something_on	1SG.S-	-NEG	-IP.E.F	1SG.S	monster(F)	1SG.O	chase	-FPL.F	1SG.O,"""I was going to fish, but I didn't fish, because the creatures chased me.""",,WORD_ALIGNED
+a88,Tao orawahara.,tao	o-	-rawa	-hara,shoot	1SG.S-	-FPL	-IP.E.F,"""I shot them.""",,WORD_ALIGNED
+a89,So tosarawarake.,soo	to-	-kosa	-rawa	-hara	-ke,lie	CH-	-middle	-FPL	-IP.E.F	-DECL.F,"""They are lying there on the ground.""",,WORD_ALIGNED
+a90,"Yama noki imararake, e teme nima tame naro.",yama	noki	ima	-ra	-hara	-ke	ee	teme	ni	-ma	tame	na	-haaro,monster(F)	face.F	be_fat	-NEG	-IP.E.F	-DECL.F	1IN.POSS	foot	AUX.NOM	-like	foot.F	AUX	-IP.E.F,"""Their faces are not fat. Their feet are like people's feet.""",,WORD_ALIGNED
+a91,Yehe yome ye toarani.,yehe	yomee	yehe	to-	ha	-hara	-ni,hand	jaguar(M)	hand	CH-	be	-IP.E.F	-BKG.F,"""Their hands are paws of jaguars.""",,WORD_ALIGNED
+a92,Watakaremetemone hinamaroke.,wataka	-ra	-hemete	-mone	hi-	na	-hamaro	-ke,be_fatty	-NEG	-FP.N.F	-REP.F	OC-	say	-FP.E.F	-DECL.F,He said they were not fat.,,WORD_ALIGNED
+a93,Imaremetemone hinamaroni.,ima	-ra	-hemete	-mone	hi-	na	-hamaro	-ni,be_fat	-NEG	-FP.N.F	-REP.F	OC-	AUX	-FP.E.F	-BKG.F,He said they were skinny.,,WORD_ALIGNED
+a94,Fana ta fana ta iima nemetemone faro.,fana	taa	fana	taa	i-	ima	na	-hemete	-mone	faaro,female(F)	contrast	female(F)	contrast	DUP-	be_fat	AUX	-FP.N.F	-REP.F	that.F,Only the female was somewhat fat.,,WORD_ALIGNED
+a95,Me hekama me hekamemetemonehe.,me	hi-	ka-	ka	-ma	me	hi-	ka-	ka	-ma	-hemete	-mone	-he,3PL.S	OC-	COMIT-	go	-back.F	3PL.S	OC-	COMIT-	go	-back	-FP.N.F	-REP.F	-DUP,They took them away.,,WORD_ALIGNED
+a96,Inamati hekamemetemone okobi hinamaroke.,inamati	hi-	ka-	ka	-ma	-hemete	-mone	okobi	hi-	na	-hamaro	-ke,spirit(M)	OC-	COMIT-	go	-back	-FP.N.F	-REP.F	my_father(M)	OC-	say	-FP.E.F	-DECL.F,"A spirit took them away, my father said.",,WORD_ALIGNED
+a97,"Faya okobi tokatasahi, okobi tokatase, hinamati oi ni tomitawitimatamona ati nemarine.",faya	okobi	to-	ka	-tasahi	okobi	to-	ka	-tase	hinamati	ohi	ni	to-	mita	-witi	-himata	-mona	ati	na	-himari	-ne,so	my_father(M)	away-	go	-again.M	my_father(M)	away-	go	-again.M	spirit(M)	cry	AUX.NFIN	away-	hear	-out	-FP.N.M	-REP.M	say	AUX	-FP.E.M	-BKG.M,"Then my father went into the forest again, and he heard a spirit crying, he said.",,WORD_ALIGNED
+a98,"Hinamati awa awa webote wa habi tori, inamati ohi nematamona okobi hinemarika.",hinamati	awa	awa	webote	waa	habi	tori	inamati	ohi	na	-himata	-mona	okobi	hi-	na	-himari	-ka,spirit(M)	tree(F)	tree(F)	big	stand.F	root.F	inside.F	spirit(M)	cry	AUX	-FP.N.M	-REP.M	my_father(M)	OC-	say	-FP.E.M	-DECL.M,"There was a spirit standing inside the buttress roots of a big tree, and the spirit was crying, my father said.",,WORD_ALIGNED
+a99,"Oooooo oooooo, ati nematamona okobi hinemarine.",ati	na	-himata	-mona	okobi	hi-	na	-himari	-ne,say	AUX	-FP.N.M	-REP.M	my_father(M)	OC-	say	-FP.E.M	-BKG.M,"""Oooo, oooo,"" it said, my father said.",,WORD_ALIGNED
+a100,Hinamati ohi nakara.,hinamati	ohi	na	-kara,spirit(M)	cry	AUX.CONT.M	-(?).M,"""The spirit is crying.""",,WORD_ALIGNED
+a101,Hinamati itematamona okobi hinemarine.,hinamati	ita	-himata	-mona	okobi	hi-	na	-himari	-ne,spirit(M)	sit	-FP.N.M	-REP.M	my_father(M)	OC-	say	-FP.E.M	-BKG.M,"The spirit was sitting on the ground, my father said.",,WORD_ALIGNED
+a102,Oohi nawahare tohane.,o-	ohi	na	-wahare	to-	ha	-ne,DUP-	cry	AUX	-all_over	CH-	AUX.CONT.M	-BKG.M,It was crying all over.,,WORD_ALIGNED
+a103,Hinamati itematamonaka ahi.,hinamati	ita	-himata	-mona	-ka	ahi,spirit(M)	sit	-FP.N.M	-REP.M	-DECL.M	then,The spirit was sitting.,,WORD_ALIGNED
+a104,Sirisiri nematamonane.,siri-	siri	na	-himata	-mona	-ne,DUP-	be_cold	AUX	-FP.N.M	-REP.M	-BKG.M,It was cold.,,WORD_ALIGNED
+a105,Owa awaraba tina.,owa	awaraba	ti-	na,1SG.O	leave_something_alone	2SG.S-	AUX,"""Leave me alone.""",,WORD_ALIGNED
+a106,Tiwa owi.,tiwa	o-	awi,2SG.O	1SG.S-	see.NOM.F,"""I see you.""",,WORD_ALIGNED
+a107,Tiwa owini.,tiwa	o-	awa	-ni,2SG.O	1SG.S-	see	-BKG.F,"""I see you.""",,WORD_ALIGNED
+a108,Owa awaraba tinahi.,owa	awaraba	ti-	na	-hi,1SG.O	leave_something_alone	2SG.S-	AUX	-IMP.F,"""Leave me alone.""",,WORD_ALIGNED
+a109,"Tiwa, tiwa okatomari, okobi ati nematamonaha.",tiwa	tiwa	o-	katoma	-ri	okobi	ati	na	-himata	-mona	-ha,2SG.O	2SG.O	1SG.S-	attack	-NEG.NOM.F	my_father(M)	say	AUX	-FP.N.M	-REP.M	-DUP,"""I didn't hurt you,"" my father said.",,WORD_ALIGNED
+a110,Tikiya.,ti-	ka	-yahi,2SG.S-	go	-DIST.IMP.F,"""Go away.""",,WORD_ALIGNED
+a111,Tikiyahi.,ti-	ka	-yahi,2SG.S-	go	-DIST.IMP.F,"""Go away.""",,WORD_ALIGNED
+a112,Okabisabone ama o.,o-	ka	-bisa	-habone	ama	o,1SG.S-	go	-also	-INT.F	SEC	1SG.S,"""I am going, too.""",,WORD_ALIGNED
+a113,Faya namoni okobi hikematamonaka fahi.,faya	namoni	okobi	hi-	ka	-himata	-mona	-ka	fahi,so	report	my_father(M)	OC-	go	-FP.N.M	-REP.M	-DECL.M	then,Then my father went away and told about it.,"In a peculiar construction involving the postposition namoni (Vogel 2015:46f), the O-construction marker hi- occurs on an intransitive verb.",WORD_ALIGNED
+a114,"Me hinakame, inamati hinabowematamonane, okobi hinemarika.",me	hi-	na-	ka	-me	inamati	hi-	naabowa	-himata	-mona	-ne	okobi	hi-	na	-himari	-ka,3PL.S	OC-	CAUS-	come	-back.M	spirit(M)	OC-	kill	-FP.N.M	-REP.M	-BKG.M	my_father(M)	OC-	say	-FP.E.M	-DECL.M,"They came after it, and one of them killed the spirit, my father said.",,WORD_ALIGNED
+a115,Faya hekamematamonaka fahi.,faya	hi-	ka-	ka	-ma	-himata	-mona	-ka	fahi,so	OC-	COMIT-	go	-back	-FP.N.M	-REP.M	-DECL.M	then,It took it away.,,WORD_ALIGNED
+a116,"Hekame, tiwa hinematamonane.",hi-	ka-	ka	-me	tiwa	hi-	na	-himata	-mona	-ne,OC-	COMIT-	go	-back.M	carry	OC-	AUX	-FP.N.M	-REP.M	-BKG.M,It took it away. It carried it over its shoulder.,,WORD_ALIGNED
+a117,Tati kone tabo winematamona hinemarika ahi.,tati	kone	tabo	wina	-himata	-mona	hi-	na	-himari	-ka	ahi,head	hair	bunch.M	hang	-FP.N.M	-REP.M	OC-	say	-FP.E.M	-DECL.M	then,"Its hair hung down, he said.",,WORD_ALIGNED
+a118,Oohi naware tohane yama kabani ya.,o-	ohi	na	-wahare	to-	ha	-ne	yama_kabani	ya,DUP-	cry	AUX	-all_over	CH-	AUX.CONT.M	-BKG.M	forest(F)	ADJU,It cried all over the forest.,,WORD_ALIGNED
+a119,Hiwarena hiwematamona hinemarika.,hi-	awa	-ra	-hina	hi-	awa	-himata	-mona	hi-	na	-himari	-ka,OC-	see	-NEG	-IRR.M	OC-	see	-FP.N.M	-REP.M	OC-	say	-FP.E.M	-DECL.M,"He wouldn't have seen it otherwise, he said.",,WORD_ALIGNED
+a120,"Fiya hiwitino oi ni yana nematamona hinemarine, he nowati ka ya.",fiya	hi-	-witi	-hino	ohi	ni	yana	na	-himata	-mona	hi-	na	-himari	-ne	hee	nowati	ka	ya,pass	OC-	-out	-IP.N.M	cry	AUX.NFIN	start	AUX	-FP.N.M	-REP.M	OC-	say	-FP.E.M	-BKG.M	3SG.POSS	behind	LOC	ADJU,"He went by it, and it started crying, he said, after he had passed.",,WORD_ALIGNED
+a121,Owa kanakomeharebana hine hinakame hiwasimematamona hinemarika.,owa	ka-	na-	komeha	-ra	-hibana	hi-	ne	hi-	na-	ka	-me	hi-	wasi	-ma	-himata	-mona	hi-	na	-himari	-ka,1SG.O	COMIT-	CAUS-	be_fearsome	-NEG	-FUT.M	OC-	say.M	OC-	CAUS-	come	-back.M	OC-	find	-back	-FP.N.M	-REP.M	OC-	say	-FP.E.M	-DECL.M,"""It won't make me afraid,"" he said. He came back after it, and came upon it, he said.",,WORD_ALIGNED
+a122,Faya tokawematamonaka fahi.,faya	to-	ka	-waha	-himata	-mona	-ka	fahi,so	away-	go	-change	-FP.N.M	-REP.M	-DECL.M	then,Then he went on.,,WORD_ALIGNED
+a123,Inamati hekamematamona hinemarine.,inamati	hi-	ka-	ka	-ma	-himata	-mona	hi-	na	-himari	-ne,spirit(M)	OC-	COMIT-	go	-back	-FP.N.M	-REP.M	OC-	say	-FP.E.M	-BKG.M,"A spirit took it away, he said.",,WORD_ALIGNED
+a124,Tiwa kanakome tiwa kanakomeharayaho.,tiwa	ka-	na-	komeha	tiwa	ka-	na-	komeha	-ra	-yaho,2SG.O	COMIT-	CAUS-	be_fearsome	2SG.O	COMIT-	CAUS-	be_fearsome	-NEG	-DIST.IMP.M,"""It scared you, but it won't scare you anymore.""",,WORD_ALIGNED
+a125,Owakamaba.,o-	ka-	ka	-ma	-ba,1SG.S-	COMIT-	go	-back.NOM.M	-FUT,"""I am going to take it away.""",,WORD_ALIGNED
+a126,Okobabaya.,o-	kaba	-ba	-ya,1SG.S-	eat	-IMMED.M	-now,"""I will eat it.""",,WORD_ALIGNED
+a127,Tekamaya.,ti-	ka-	ka	-ma	-yaho,2SG.S-	COMIT-	go	-back	-DIST.IMP.M,"""Go ahead and take it away.""",,WORD_ALIGNED
+a128,Owa kiyoraya.,owa	kiyo	-ra	-yaho,1SG.O	chase	-NEG	-DIST.IMP.M,"""I don't want it to chase me.""",,WORD_ALIGNED
+a129,Hekamematamonaka.,hi-	ka-	ka	-ma	-himata	-mona	-ka,OC-	COMIT-	go	-back	-FP.N.M	-REP.M	-DECL.M,It took it away.,,WORD_ALIGNED
+a130,Tiwa hinematamonane.,tiwa	hi-	na	-himata	-mona	-ne,carry	OC-	AUX	-FP.N.M	-REP.M	-BKG.M,It carried it on its shoulder.,,WORD_ALIGNED
+a131,Taibona tama hinematamonaka wabise.,tahi	-bona	tama	hi-	na	-himata	-mona	-ka	wabise,weapon_against	-INT.M	hold_onto	OC-	AUX	-FP.N.M	-REP.M	-DECL.M	spear(F),"It had a weapon to kill it with, a spear.",,WORD_ALIGNED
+a132,Wabisemetemoneni.,wabise	-mete	-mone	-ni,spear(F)	-FP.N.F	-REP.F	-BKG.F,It was a spear.,,WORD_ALIGNED

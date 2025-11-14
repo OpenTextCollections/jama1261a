@@ -1,0 +1,1 @@
+/home/snordhoff/versioning/git/opentextcollections/scripts/collate4cldf.py
